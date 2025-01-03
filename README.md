@@ -1,6 +1,5 @@
-# CyTZero---Distributed-Denial-of-Service-DDoS-Testing-Tool
-# Code By CyTZero 
-CyTZero is a Distributed Denial of Service (DDoS) testing tool designed for educational purposes and authorized security research. It allows network administrators and cybersecurity professionals to test the resilience of their systems against DDoS attacks in a controlled and legal environment.
+
+Arabu007 is a Distributed Denial of Service (DDoS) testing tool designed for educational purposes and authorized security research. It allows network administrators and cybersecurity professionals to test the resilience of their systems against DDoS attacks in a controlled and legal environment.
 
 Features:
 
